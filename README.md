@@ -75,3 +75,21 @@ The **Car Sales Dashboard** provides a **comprehensive view of sales performance
 
 
 ## 📂 Repository Structure
+├── README.md
+├── data/                # Raw and processed datasets
+├── dashboard/           # Power BI dashboard files
+├── docs/                # Documentation and reports
+
+
+---
+
+## 🚀 Future Enhancements
+- Add **predictive analytics** for forecasting sales  
+- Integrate **real-time data feeds**  
+- Expand dashboard with **regional comparisons**  
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** – feel free to use and modify with attribution.
+
