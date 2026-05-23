@@ -1,5 +1,3 @@
-<img width="1300" height="726" alt="Screenshot 2026-02-26 025856" src="https://github.com/user-attachments/assets/27ca294c-6760-420e-a943-1c064f6c24e4" />
-<img width="1308" height="729" alt="Screenshot 2026-02-26 025803" src="https://github.com/user-attachments/assets/2f701a78-5b25-4246-89b6-0aea46e5c190" />
 # 🚗 Car Sales Dashboard (Power BI)
 
 ## 📌 Project Overview
@@ -7,6 +5,7 @@ This project presents a **dynamic and interactive Car Sales Dashboard** built us
 The dashboard visualizes critical **KPIs** related to car sales, enabling management to monitor performance, identify trends, and make **data-driven decisions**.
 
 ---
+<img width="1308" height="729" alt="Screenshot 2026-02-26 025803" src="https://github.com/user-attachments/assets/2f701a78-5b25-4246-89b6-0aea46e5c190" />
 
 ## 🎯 Objective
 The goal is to design and develop a dashboard that provides **real-time insights** into sales data, helping the dealership:
@@ -64,6 +63,7 @@ To effectively track and analyze sales performance, we require a **comprehensive
 | Lexus     | $54.0K        | 1.0           | $0.1M           | 4.35%    |
 
 ---
+<img width="1300" height="726" alt="Screenshot 2026-02-26 025856" src="https://github.com/user-attachments/assets/27ca294c-6760-420e-a943-1c064f6c24e4" />
 
 ## 🛠️ Tech Stack
 - **Power BI** – for dashboard creation and visualization  
