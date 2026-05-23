@@ -44,6 +44,7 @@ To effectively track and analyze sales performance, we require a **comprehensive
 - Difference between YTD and PTYD Cars Sold  
 
 ---
+<img width="1300" height="726" alt="Screenshot 2026-02-26 025856" src="https://github.com/user-attachments/assets/27ca294c-6760-420e-a943-1c064f6c24e4" />
 
 ## 📈 Dashboard Insights
 - **YTD Total Sales:** $70.8M  
@@ -63,7 +64,6 @@ To effectively track and analyze sales performance, we require a **comprehensive
 | Lexus     | $54.0K        | 1.0           | $0.1M           | 4.35%    |
 
 ---
-<img width="1300" height="726" alt="Screenshot 2026-02-26 025856" src="https://github.com/user-attachments/assets/27ca294c-6760-420e-a943-1c064f6c24e4" />
 
 ## 🛠️ Tech Stack
 - **Power BI** – for dashboard creation and visualization  
