@@ -1,3 +1,5 @@
+<img width="1300" height="726" alt="Screenshot 2026-02-26 025856" src="https://github.com/user-attachments/assets/27ca294c-6760-420e-a943-1c064f6c24e4" />
+<img width="1308" height="729" alt="Screenshot 2026-02-26 025803" src="https://github.com/user-attachments/assets/2f701a78-5b25-4246-89b6-0aea46e5c190" />
 # 🚗 Car Sales Dashboard (Power BI)
 
 ## 📌 Project Overview
